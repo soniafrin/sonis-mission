@@ -1,0 +1,179 @@
+ body{
+     /* background-color: rgb(228, 227, 228); */
+     margin: 0;
+ }
+ .focus{
+    font-family:cursive;
+    font-size:55px;
+    font-weight: bold; 
+    line-height:0.4;
+}
+.mission22 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(20, 12, 138);
+    font-size:55px;
+    line-height:0.5;
+}
+.border1 {
+    border-left: 3px solid rgb(18, 18, 168);
+    padding-left:10px;
+    border-radius: 10px;
+}
+
+.explore1{
+    background-image:linear-gradient(rgb(87, 87, 241), rgb(77, 5, 95));
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    padding:7px 20px;
+    border-radius: 20px;
+    line-height: 3;
+}
+
+.section1{
+    display: flex;
+   
+}
+.content0{
+    padding-top:100px;
+    padding-left: 150px; 
+}
+.scroll1 {
+    font-size: 12px;
+    line-height: 3;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.img0{
+    max-width: 50%;
+    margin-left:200px;
+}
+
+.mymission {
+    font-family:cursive;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(121, 11, 112);
+}
+.mymission span {
+    color: rgb(19, 4, 105);
+}
+
+#allmission{
+    display: flex;
+    padding-left: 160px;
+}
+.missions {
+    width: 20%;
+    height: 40%;
+    margin:35px 20px;
+    padding: 30px;
+    background-color: rgb(250, 233, 245);
+    border-radius: 5px;
+    
+}
+
+.vissions {
+    width: 20%;
+    height: 40%;
+    margin: 35px 20px;
+    padding: 30px;
+    background-color: rgb(199, 236, 228);
+    border-radius: 5px;
+}
+.goalss {
+    width: 20%;
+    height: 40%;
+    margin: 35px 20px;
+    padding: 30px;
+    background-color: rgb(232, 199, 247);
+    border-radius: 5px;
+}
+.mimg{
+    width:40%;
+
+}
+.hmission{
+    line-height: 0.1;
+    font-size: 20px;
+    font-weight: bold;
+    }
+.pmission{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px; 
+}
+.section3{
+    display: flex;
+}
+.img1{
+    max-width: 25%;
+    margin:30px 75px;
+    padding-left: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size:150px;
+}
+.develop{
+    width: 50%;
+    padding-top:100px;
+}
+.hsmall{
+    color: rgb(61, 112, 10);
+    font-size: 30px;
+    line-height: 0.5;
+}
+.hcapital{
+    color: rgb(32, 78, 5);
+    font-size: 35px;
+}
+.section4{
+    display: flex;
+}
+.know{
+    width: 40%;
+    height: auto;
+    padding-left: 170px;
+    padding-top: 120px;
+}
+.img2{
+    max-width: 30%;
+    height: auto;
+    margin:30px 75px;
+    padding-right: 40px;
+    
+}
+.section5{
+    display:flex;
+}
+.img3{
+    width: 35%;
+    margin-left: 150px;
+}
+.bwebsite{
+    margin: 150px 80px;
+}
+
+footer{
+    background-color: rgb(24, 22, 22);
+    text-align: center;
+    padding:15px;
+    margin-top:140px;
+}
+.hfooter span{
+    color: rgb(212, 55, 55);
+}
+.hfooter{
+    color: #fff;
+    font-size: 25px;
+    font-style: italic;
+}
+.pfooter{
+    color: grey;
+    font-size: 12px;
+}
+.section5:hover{
+    background-color: rgb(132, 228, 191);
+    transition: 0.5s;
+    
+}
